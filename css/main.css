@@ -1,0 +1,30 @@
+*{
+  margin:0px; padding:0px;
+}
+
+div{
+ display: inline-block;
+}
+
+.Board{
+  width:800px;
+  height:800px;
+}
+
+.row{
+  width:800px;
+  height:40px;
+}
+
+.cell{
+  width:40px;
+  height:40px;
+}
+
+.odd{
+  background-color:red;
+}
+
+.even{
+  background-color:blue;
+}
